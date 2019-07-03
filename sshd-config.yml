@@ -1,0 +1,14 @@
+- hosts: localhost
+  become: true
+  tasks:
+    - name: Relax MaxStartups policy
+      lineinfile:
+        path: /etc/ssh/sshd_config
+        regexp: '^MaxStartups'
+        line: 'MaxStartups 100:30:1000'
+      notify: Restart sshd
+  handlers:
+    - name: Restart sshd
+      service:
+        name: sshd
+        state: restarted
