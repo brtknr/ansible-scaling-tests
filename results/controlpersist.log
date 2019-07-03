@@ -1,0 +1,1036 @@
+
+PLAY [Import tasks] *********************************************************************************************************************************************************
+
+TASK [Echoing stuff] ********************************************************************************************************************************************************
+Wednesday 03 July 2019  15:44:46 +0000 (0:00:00.152)       0:00:00.152 ******** 
+changed: [host025]
+changed: [host032]
+changed: [host031]
+changed: [host034]
+changed: [host013]
+changed: [host018]
+changed: [host008]
+changed: [host011]
+changed: [host004]
+changed: [host038]
+changed: [host015]
+changed: [host035]
+changed: [host002]
+changed: [host022]
+changed: [host000]
+changed: [host023]
+changed: [host048]
+changed: [host021]
+changed: [host017]
+changed: [host003]
+changed: [host033]
+changed: [host030]
+changed: [host005]
+changed: [host009]
+changed: [host019]
+changed: [host006]
+changed: [host024]
+changed: [host010]
+changed: [host046]
+changed: [host001]
+changed: [host020]
+changed: [host012]
+changed: [host028]
+changed: [host016]
+changed: [host037]
+changed: [host029]
+changed: [host027]
+changed: [host043]
+changed: [host044]
+changed: [host041]
+changed: [host047]
+changed: [host040]
+changed: [host007]
+changed: [host014]
+changed: [host036]
+changed: [host039]
+changed: [host045]
+changed: [host042]
+changed: [host026]
+changed: [host049]
+changed: [host056]
+changed: [host051]
+changed: [host055]
+changed: [host057]
+changed: [host068]
+changed: [host062]
+changed: [host078]
+changed: [host072]
+changed: [host073]
+changed: [host079]
+changed: [host059]
+changed: [host050]
+changed: [host052]
+changed: [host069]
+changed: [host060]
+changed: [host071]
+changed: [host067]
+changed: [host058]
+changed: [host070]
+changed: [host053]
+changed: [host088]
+changed: [host054]
+changed: [host064]
+changed: [host086]
+changed: [host061]
+changed: [host063]
+changed: [host066]
+changed: [host065]
+changed: [host091]
+changed: [host080]
+changed: [host075]
+changed: [host084]
+changed: [host076]
+changed: [host087]
+changed: [host089]
+changed: [host077]
+changed: [host094]
+changed: [host090]
+changed: [host082]
+changed: [host083]
+changed: [host085]
+changed: [host074]
+changed: [host097]
+changed: [host095]
+changed: [host081]
+changed: [host096]
+changed: [host098]
+changed: [host092]
+changed: [host093]
+changed: [host099]
+changed: [host105]
+changed: [host102]
+changed: [host115]
+changed: [host101]
+changed: [host107]
+changed: [host103]
+changed: [host104]
+changed: [host116]
+changed: [host106]
+changed: [host100]
+changed: [host123]
+changed: [host111]
+changed: [host110]
+changed: [host113]
+changed: [host119]
+changed: [host109]
+changed: [host117]
+changed: [host114]
+changed: [host112]
+changed: [host122]
+changed: [host134]
+changed: [host125]
+changed: [host121]
+changed: [host132]
+changed: [host133]
+changed: [host127]
+changed: [host129]
+changed: [host108]
+changed: [host131]
+changed: [host139]
+changed: [host136]
+changed: [host135]
+changed: [host120]
+changed: [host142]
+changed: [host126]
+changed: [host130]
+changed: [host124]
+changed: [host118]
+changed: [host138]
+changed: [host144]
+changed: [host149]
+changed: [host146]
+changed: [host128]
+changed: [host148]
+changed: [host140]
+changed: [host143]
+changed: [host141]
+changed: [host137]
+changed: [host147]
+changed: [host145]
+changed: [host150]
+changed: [host151]
+changed: [host156]
+changed: [host161]
+changed: [host153]
+changed: [host157]
+changed: [host154]
+changed: [host152]
+changed: [host160]
+changed: [host159]
+changed: [host163]
+changed: [host155]
+changed: [host172]
+changed: [host169]
+changed: [host179]
+changed: [host171]
+changed: [host166]
+changed: [host181]
+changed: [host162]
+changed: [host173]
+changed: [host170]
+changed: [host187]
+changed: [host178]
+changed: [host158]
+changed: [host164]
+changed: [host165]
+changed: [host190]
+changed: [host193]
+changed: [host176]
+changed: [host174]
+changed: [host167]
+changed: [host185]
+changed: [host184]
+changed: [host168]
+changed: [host175]
+changed: [host194]
+changed: [host180]
+changed: [host182]
+changed: [host188]
+changed: [host186]
+changed: [host177]
+changed: [host183]
+changed: [host191]
+changed: [host197]
+changed: [host192]
+changed: [host195]
+changed: [host198]
+changed: [host199]
+changed: [host189]
+changed: [host196]
+
+TASK [Echoing stuff] ********************************************************************************************************************************************************
+Wednesday 03 July 2019  15:44:53 +0000 (0:00:06.621)       0:00:06.774 ******** 
+changed: [host006]
+changed: [host005]
+changed: [host003]
+changed: [host009]
+changed: [host010]
+changed: [host000]
+changed: [host004]
+changed: [host007]
+changed: [host031]
+changed: [host015]
+changed: [host018]
+changed: [host017]
+changed: [host002]
+changed: [host008]
+changed: [host001]
+changed: [host023]
+changed: [host026]
+changed: [host019]
+changed: [host038]
+changed: [host022]
+changed: [host011]
+changed: [host028]
+changed: [host025]
+changed: [host016]
+changed: [host014]
+changed: [host029]
+changed: [host037]
+changed: [host021]
+changed: [host030]
+changed: [host034]
+changed: [host033]
+changed: [host046]
+changed: [host012]
+changed: [host024]
+changed: [host042]
+changed: [host035]
+changed: [host040]
+changed: [host036]
+changed: [host027]
+changed: [host013]
+changed: [host032]
+changed: [host043]
+changed: [host045]
+changed: [host020]
+changed: [host041]
+changed: [host049]
+changed: [host053]
+changed: [host039]
+changed: [host047]
+changed: [host051]
+changed: [host048]
+changed: [host055]
+changed: [host044]
+changed: [host050]
+changed: [host052]
+changed: [host070]
+changed: [host056]
+changed: [host061]
+changed: [host067]
+changed: [host071]
+changed: [host072]
+changed: [host058]
+changed: [host065]
+changed: [host068]
+changed: [host077]
+changed: [host064]
+changed: [host082]
+changed: [host063]
+changed: [host054]
+changed: [host057]
+changed: [host074]
+changed: [host087]
+changed: [host075]
+changed: [host079]
+changed: [host089]
+changed: [host069]
+changed: [host080]
+changed: [host086]
+changed: [host060]
+changed: [host076]
+changed: [host066]
+changed: [host059]
+changed: [host078]
+changed: [host093]
+changed: [host062]
+changed: [host073]
+changed: [host085]
+changed: [host088]
+changed: [host101]
+changed: [host094]
+changed: [host098]
+changed: [host096]
+changed: [host091]
+changed: [host083]
+changed: [host100]
+changed: [host090]
+changed: [host084]
+changed: [host081]
+changed: [host092]
+changed: [host102]
+changed: [host095]
+changed: [host097]
+changed: [host099]
+changed: [host104]
+changed: [host106]
+changed: [host103]
+changed: [host108]
+changed: [host105]
+changed: [host107]
+changed: [host112]
+changed: [host121]
+changed: [host123]
+changed: [host115]
+changed: [host117]
+changed: [host113]
+changed: [host119]
+changed: [host128]
+changed: [host109]
+changed: [host124]
+changed: [host110]
+changed: [host111]
+changed: [host118]
+changed: [host120]
+changed: [host125]
+changed: [host133]
+changed: [host135]
+changed: [host130]
+changed: [host116]
+changed: [host114]
+changed: [host122]
+changed: [host147]
+changed: [host142]
+changed: [host136]
+changed: [host132]
+changed: [host134]
+changed: [host131]
+changed: [host126]
+changed: [host146]
+changed: [host127]
+changed: [host144]
+changed: [host149]
+changed: [host148]
+changed: [host140]
+changed: [host143]
+changed: [host137]
+changed: [host138]
+changed: [host145]
+changed: [host139]
+changed: [host129]
+changed: [host153]
+changed: [host150]
+changed: [host154]
+changed: [host152]
+changed: [host141]
+changed: [host155]
+changed: [host151]
+changed: [host156]
+changed: [host157]
+changed: [host158]
+changed: [host162]
+changed: [host160]
+changed: [host170]
+changed: [host173]
+changed: [host161]
+changed: [host164]
+changed: [host184]
+changed: [host172]
+changed: [host175]
+changed: [host159]
+changed: [host171]
+changed: [host169]
+changed: [host178]
+changed: [host186]
+changed: [host163]
+changed: [host180]
+changed: [host165]
+changed: [host166]
+changed: [host168]
+changed: [host195]
+changed: [host167]
+changed: [host176]
+changed: [host193]
+changed: [host177]
+changed: [host194]
+changed: [host179]
+changed: [host187]
+changed: [host181]
+changed: [host174]
+changed: [host190]
+changed: [host197]
+changed: [host196]
+changed: [host183]
+changed: [host185]
+changed: [host182]
+changed: [host188]
+changed: [host189]
+changed: [host191]
+changed: [host199]
+changed: [host192]
+changed: [host198]
+
+PLAY [Include tasks] ********************************************************************************************************************************************************
+
+TASK [include_tasks] ********************************************************************************************************************************************************
+Wednesday 03 July 2019  15:44:58 +0000 (0:00:05.215)       0:00:11.990 ******** 
+included: /home/centos/ansible-scaling/tasks.yml for host000, host001, host002, host003, host004, host005, host006, host007, host008, host009, host010, host011, host012, host013, host014, host015, host016, host017, host018, host019, host020, host021, host022, host023, host024, host025, host026, host027, host028, host029, host030, host031, host032, host033, host034, host035, host036, host037, host038, host039, host040, host041, host042, host043, host044, host045, host046, host047, host048, host049, host050, host051, host052, host053, host054, host055, host056, host057, host058, host059, host060, host061, host062, host063, host064, host065, host066, host067, host068, host069, host070, host071, host072, host073, host074, host075, host076, host077, host078, host079, host080, host081, host082, host083, host084, host085, host086, host087, host088, host089, host090, host091, host092, host093, host094, host095, host096, host097, host098, host099, host100, host101, host102, host103, host104, host105, host106, host107, host108, host109, host110, host111, host112, host113, host114, host115, host116, host117, host118, host119, host120, host121, host122, host123, host124, host125, host126, host127, host128, host129, host130, host131, host132, host133, host134, host135, host136, host137, host138, host139, host140, host141, host142, host143, host144, host145, host146, host147, host148, host149, host150, host151, host152, host153, host154, host155, host156, host157, host158, host159, host160, host161, host162, host163, host164, host165, host166, host167, host168, host169, host170, host171, host172, host173, host174, host175, host176, host177, host178, host179, host180, host181, host182, host183, host184, host185, host186, host187, host188, host189, host190, host191, host192, host193, host194, host195, host196, host197, host198, host199
+
+TASK [Echoing stuff] ********************************************************************************************************************************************************
+Wednesday 03 July 2019  15:45:00 +0000 (0:00:02.175)       0:00:14.166 ******** 
+changed: [host006]
+changed: [host025]
+changed: [host000]
+changed: [host003]
+changed: [host009]
+changed: [host024]
+changed: [host016]
+changed: [host007]
+changed: [host011]
+changed: [host014]
+changed: [host001]
+changed: [host029]
+changed: [host002]
+changed: [host037]
+changed: [host004]
+changed: [host030]
+changed: [host019]
+changed: [host008]
+changed: [host010]
+changed: [host022]
+changed: [host021]
+changed: [host012]
+changed: [host027]
+changed: [host013]
+changed: [host032]
+changed: [host031]
+changed: [host020]
+changed: [host017]
+changed: [host005]
+changed: [host023]
+changed: [host026]
+changed: [host036]
+changed: [host015]
+changed: [host018]
+changed: [host028]
+changed: [host045]
+changed: [host033]
+changed: [host034]
+changed: [host048]
+changed: [host042]
+changed: [host038]
+changed: [host035]
+changed: [host041]
+changed: [host044]
+changed: [host046]
+changed: [host039]
+changed: [host047]
+changed: [host049]
+changed: [host040]
+changed: [host043]
+changed: [host053]
+changed: [host052]
+changed: [host051]
+changed: [host050]
+changed: [host055]
+changed: [host054]
+changed: [host060]
+changed: [host062]
+changed: [host065]
+changed: [host061]
+changed: [host063]
+changed: [host072]
+changed: [host093]
+changed: [host079]
+changed: [host087]
+changed: [host064]
+changed: [host075]
+changed: [host067]
+changed: [host066]
+changed: [host057]
+changed: [host056]
+changed: [host077]
+changed: [host081]
+changed: [host071]
+changed: [host074]
+changed: [host073]
+changed: [host076]
+changed: [host059]
+changed: [host058]
+changed: [host070]
+changed: [host069]
+changed: [host068]
+changed: [host090]
+changed: [host089]
+changed: [host094]
+changed: [host086]
+changed: [host088]
+changed: [host080]
+changed: [host084]
+changed: [host096]
+changed: [host083]
+changed: [host078]
+changed: [host085]
+changed: [host082]
+changed: [host095]
+changed: [host091]
+changed: [host098]
+changed: [host092]
+changed: [host100]
+changed: [host099]
+changed: [host102]
+changed: [host104]
+changed: [host103]
+changed: [host097]
+changed: [host105]
+changed: [host101]
+changed: [host111]
+changed: [host114]
+changed: [host107]
+changed: [host110]
+changed: [host112]
+changed: [host109]
+changed: [host106]
+changed: [host108]
+changed: [host126]
+changed: [host113]
+changed: [host122]
+changed: [host124]
+changed: [host115]
+changed: [host127]
+changed: [host118]
+changed: [host125]
+changed: [host147]
+changed: [host119]
+changed: [host144]
+changed: [host121]
+changed: [host120]
+changed: [host123]
+changed: [host131]
+changed: [host116]
+changed: [host135]
+changed: [host140]
+changed: [host141]
+changed: [host128]
+changed: [host117]
+changed: [host130]
+changed: [host138]
+changed: [host132]
+changed: [host134]
+changed: [host152]
+changed: [host136]
+changed: [host129]
+changed: [host142]
+changed: [host137]
+changed: [host133]
+changed: [host143]
+changed: [host148]
+changed: [host151]
+changed: [host139]
+changed: [host154]
+changed: [host146]
+changed: [host150]
+changed: [host149]
+changed: [host153]
+changed: [host145]
+changed: [host155]
+changed: [host158]
+changed: [host156]
+changed: [host161]
+changed: [host176]
+changed: [host178]
+changed: [host162]
+changed: [host157]
+changed: [host159]
+changed: [host163]
+changed: [host174]
+changed: [host179]
+changed: [host182]
+changed: [host160]
+changed: [host172]
+changed: [host193]
+changed: [host173]
+changed: [host166]
+changed: [host167]
+changed: [host185]
+changed: [host165]
+changed: [host180]
+changed: [host183]
+changed: [host190]
+changed: [host171]
+changed: [host170]
+changed: [host168]
+changed: [host164]
+changed: [host175]
+changed: [host184]
+changed: [host188]
+changed: [host187]
+changed: [host177]
+changed: [host169]
+changed: [host181]
+changed: [host191]
+changed: [host192]
+changed: [host189]
+changed: [host197]
+changed: [host198]
+changed: [host195]
+changed: [host196]
+changed: [host186]
+changed: [host194]
+changed: [host199]
+
+TASK [include_tasks] ********************************************************************************************************************************************************
+Wednesday 03 July 2019  15:45:05 +0000 (0:00:05.170)       0:00:19.336 ******** 
+included: /home/centos/ansible-scaling/tasks.yml for host000, host001, host002, host003, host004, host005, host006, host007, host008, host009, host010, host011, host012, host013, host014, host015, host016, host017, host018, host019, host020, host021, host022, host023, host024, host025, host026, host027, host028, host029, host030, host031, host032, host033, host034, host035, host036, host037, host038, host039, host040, host041, host042, host043, host044, host045, host046, host047, host048, host049, host050, host051, host052, host053, host054, host055, host056, host057, host058, host059, host060, host061, host062, host063, host064, host065, host066, host067, host068, host069, host070, host071, host072, host073, host074, host075, host076, host077, host078, host079, host080, host081, host082, host083, host084, host085, host086, host087, host088, host089, host090, host091, host092, host093, host094, host095, host096, host097, host098, host099, host100, host101, host102, host103, host104, host105, host106, host107, host108, host109, host110, host111, host112, host113, host114, host115, host116, host117, host118, host119, host120, host121, host122, host123, host124, host125, host126, host127, host128, host129, host130, host131, host132, host133, host134, host135, host136, host137, host138, host139, host140, host141, host142, host143, host144, host145, host146, host147, host148, host149, host150, host151, host152, host153, host154, host155, host156, host157, host158, host159, host160, host161, host162, host163, host164, host165, host166, host167, host168, host169, host170, host171, host172, host173, host174, host175, host176, host177, host178, host179, host180, host181, host182, host183, host184, host185, host186, host187, host188, host189, host190, host191, host192, host193, host194, host195, host196, host197, host198, host199
+
+TASK [Echoing stuff] ********************************************************************************************************************************************************
+Wednesday 03 July 2019  15:45:08 +0000 (0:00:02.368)       0:00:21.704 ******** 
+changed: [host001]
+changed: [host000]
+changed: [host007]
+changed: [host010]
+changed: [host014]
+changed: [host002]
+changed: [host003]
+changed: [host006]
+changed: [host017]
+changed: [host020]
+changed: [host047]
+changed: [host012]
+changed: [host009]
+changed: [host015]
+changed: [host018]
+changed: [host025]
+changed: [host016]
+changed: [host005]
+changed: [host037]
+changed: [host034]
+changed: [host021]
+changed: [host026]
+changed: [host004]
+changed: [host031]
+changed: [host008]
+changed: [host024]
+changed: [host013]
+changed: [host011]
+changed: [host029]
+changed: [host048]
+changed: [host042]
+changed: [host028]
+changed: [host030]
+changed: [host032]
+changed: [host022]
+changed: [host046]
+changed: [host027]
+changed: [host033]
+changed: [host049]
+changed: [host023]
+changed: [host038]
+changed: [host036]
+changed: [host044]
+changed: [host043]
+changed: [host041]
+changed: [host045]
+changed: [host019]
+changed: [host035]
+changed: [host039]
+changed: [host040]
+changed: [host052]
+changed: [host061]
+changed: [host050]
+changed: [host054]
+changed: [host051]
+changed: [host057]
+changed: [host060]
+changed: [host053]
+changed: [host063]
+changed: [host056]
+changed: [host055]
+changed: [host065]
+changed: [host067]
+changed: [host093]
+changed: [host068]
+changed: [host075]
+changed: [host062]
+changed: [host074]
+changed: [host080]
+changed: [host073]
+changed: [host059]
+changed: [host092]
+changed: [host077]
+changed: [host072]
+changed: [host070]
+changed: [host098]
+changed: [host058]
+changed: [host083]
+changed: [host091]
+changed: [host069]
+changed: [host086]
+changed: [host071]
+changed: [host084]
+changed: [host076]
+changed: [host064]
+changed: [host066]
+changed: [host079]
+changed: [host094]
+changed: [host087]
+changed: [host088]
+changed: [host090]
+changed: [host089]
+changed: [host082]
+changed: [host085]
+changed: [host095]
+changed: [host099]
+changed: [host081]
+changed: [host078]
+changed: [host107]
+changed: [host100]
+changed: [host109]
+changed: [host102]
+changed: [host096]
+changed: [host097]
+changed: [host106]
+changed: [host103]
+changed: [host122]
+changed: [host105]
+changed: [host111]
+changed: [host104]
+changed: [host101]
+changed: [host108]
+changed: [host113]
+changed: [host119]
+changed: [host117]
+changed: [host114]
+changed: [host121]
+changed: [host128]
+changed: [host120]
+changed: [host124]
+changed: [host143]
+changed: [host112]
+changed: [host135]
+changed: [host115]
+changed: [host118]
+changed: [host116]
+changed: [host110]
+changed: [host126]
+changed: [host134]
+changed: [host125]
+changed: [host140]
+changed: [host132]
+changed: [host129]
+changed: [host131]
+changed: [host123]
+changed: [host130]
+changed: [host127]
+changed: [host136]
+changed: [host141]
+changed: [host137]
+changed: [host133]
+changed: [host146]
+changed: [host152]
+changed: [host144]
+changed: [host151]
+changed: [host139]
+changed: [host145]
+changed: [host138]
+changed: [host142]
+changed: [host147]
+changed: [host153]
+changed: [host148]
+changed: [host149]
+changed: [host160]
+changed: [host161]
+changed: [host150]
+changed: [host157]
+changed: [host158]
+changed: [host154]
+changed: [host156]
+changed: [host163]
+changed: [host159]
+changed: [host175]
+changed: [host167]
+changed: [host166]
+changed: [host171]
+changed: [host155]
+changed: [host165]
+changed: [host172]
+changed: [host180]
+changed: [host176]
+changed: [host188]
+changed: [host184]
+changed: [host189]
+changed: [host177]
+changed: [host164]
+changed: [host162]
+changed: [host182]
+changed: [host185]
+changed: [host170]
+changed: [host173]
+changed: [host191]
+changed: [host196]
+changed: [host179]
+changed: [host192]
+changed: [host187]
+changed: [host181]
+changed: [host199]
+changed: [host169]
+changed: [host168]
+changed: [host183]
+changed: [host194]
+changed: [host195]
+changed: [host174]
+changed: [host190]
+changed: [host193]
+changed: [host178]
+changed: [host198]
+changed: [host197]
+changed: [host186]
+
+PLAY RECAP ******************************************************************************************************************************************************************
+host000                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host001                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host002                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host003                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host004                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host005                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host006                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host007                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host008                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host009                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host010                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host011                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host012                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host013                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host014                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host015                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host016                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host017                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host018                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host019                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host020                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host021                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host022                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host023                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host024                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host025                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host026                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host027                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host028                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host029                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host030                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host031                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host032                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host033                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host034                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host035                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host036                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host037                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host038                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host039                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host040                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host041                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host042                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host043                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host044                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host045                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host046                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host047                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host048                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host049                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host050                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host051                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host052                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host053                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host054                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host055                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host056                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host057                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host058                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host059                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host060                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host061                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host062                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host063                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host064                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host065                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host066                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host067                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host068                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host069                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host070                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host071                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host072                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host073                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host074                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host075                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host076                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host077                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host078                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host079                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host080                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host081                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host082                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host083                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host084                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host085                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host086                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host087                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host088                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host089                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host090                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host091                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host092                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host093                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host094                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host095                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host096                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host097                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host098                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host099                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host100                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host101                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host102                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host103                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host104                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host105                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host106                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host107                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host108                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host109                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host110                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host111                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host112                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host113                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host114                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host115                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host116                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host117                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host118                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host119                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host120                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host121                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host122                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host123                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host124                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host125                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host126                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host127                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host128                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host129                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host130                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host131                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host132                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host133                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host134                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host135                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host136                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host137                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host138                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host139                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host140                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host141                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host142                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host143                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host144                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host145                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host146                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host147                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host148                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host149                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host150                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host151                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host152                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host153                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host154                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host155                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host156                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host157                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host158                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host159                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host160                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host161                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host162                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host163                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host164                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host165                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host166                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host167                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host168                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host169                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host170                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host171                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host172                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host173                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host174                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host175                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host176                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host177                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host178                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host179                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host180                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host181                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host182                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host183                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host184                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host185                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host186                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host187                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host188                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host189                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host190                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host191                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host192                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host193                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host194                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host195                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host196                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host197                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host198                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host199                    : ok=6    changed=4    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+Wednesday 03 July 2019  15:45:13 +0000 (0:00:05.131)       0:00:26.836 ******** 
+=============================================================================== 
+Echoing stuff -------------------------------------------------------------------------------------------------------------------------------------------------------- 6.62s
+Echoing stuff -------------------------------------------------------------------------------------------------------------------------------------------------------- 5.22s
+Echoing stuff -------------------------------------------------------------------------------------------------------------------------------------------------------- 5.17s
+Echoing stuff -------------------------------------------------------------------------------------------------------------------------------------------------------- 5.13s
+include_tasks -------------------------------------------------------------------------------------------------------------------------------------------------------- 2.37s
+include_tasks -------------------------------------------------------------------------------------------------------------------------------------------------------- 2.18s
+Playbook run took 0 days, 0 hours, 0 minutes, 26 seconds
