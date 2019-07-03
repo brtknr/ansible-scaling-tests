@@ -1,0 +1,7 @@
+- hosts: local
+  gather_facts: false
+  tasks: 
+    - name: Importing tasks
+      import_tasks: tasks.yml
+    - name: Include tasks
+      include_tasks: tasks.yml
