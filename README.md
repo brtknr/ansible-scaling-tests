@@ -10,4 +10,4 @@ Relax MaxStartups policy in sshd config:
 
 Run playbook:
 
-	ansible-playbook -i inventory.ini playbook.yml -f 100
+	ansible-playbook -i inventory.ini playbook.yml
